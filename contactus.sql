@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS NewsPortal;
-USE NewsPortal;
+CREATE DATABASE IF NOT EXISTS news_portal;
+USE news_portal;
 
 CREATE TABLE IF NOT EXISTS ContactUs (
     contact_id INT AUTO_INCREMENT PRIMARY KEY,
